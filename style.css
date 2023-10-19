@@ -1,0 +1,26 @@
+.background{
+background-image: url(https://i.pinimg.com/originals/d5/31/eb/d531ebd228e1ee967e14e0bd52dfc177.jpg);
+background-position: center; background-size: cover;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'Permanent Marker',cursive;
+    font-size: 100px;
+    color: darkred;
+}
+#button1{
+    background-position: center; background-size: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    font-family: 'Permanent Marker',cursive;
+    color: darkred;
+    font-size: 42px;
+    background-image: url(https://cinemavertoviano.files.wordpress.com/2022/06/wednesday-maozinha.png.png);
+}
+#espaço{
+    background-color: white;
+    color:red;
+}
